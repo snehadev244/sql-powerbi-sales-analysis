@@ -1,0 +1,1 @@
+This project analyzes pizza sales data to generate various key performance metrics (KPIs) and trends. The analysis provides insights into total revenue, average order value, pizza category performance, and customer behaviors such as average pizzas per order. SQL queries have been designed to calculate these metrics and create valuable reports for business decision-making.
